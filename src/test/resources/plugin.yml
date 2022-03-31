@@ -1,0 +1,8 @@
+name: ChellengePlugin
+author: kyew
+main: main.Main
+version: ${project.version}
+description: creates CHallenges. Objectives that can be achieved by either of the players. First to do it wins.
+api-version: 1.18
+
+commands:
